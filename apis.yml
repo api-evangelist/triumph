@@ -1,7 +1,15 @@
 aid: triumph
 name: Triumph
-description: Triumph is a company surfaced as a portfolio company of general-catalyst and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: 'Triumph (Triumph Labs, formerly Triumph Arcade) is a consumer entertainment
+  and commerce company backed by General Catalyst, which led its $10.2M Series A —
+  part of the $14.1M the company launched with in May 2023. Triumph began as an iOS/Unity
+  SDK that let game developers add real-money tournaments to their games, handling
+  payments, state-by-state regulatory eligibility (37 US states plus DC at launch),
+  matchmaking, and payouts, and today operates two consumer apps: Triumph: Play for
+  Cash (competitive cash gaming arcade) and Rips by Triumph (trading-card collectibles).
+  The Triumph SDK for Swift and Unity remains documented at docs.triumpharcade.com
+  and is distributed via CocoaPods and GitHub, with a developer dashboard at
+  dashboard.triumpharcade.com; the company publishes no public REST API.'
 url: https://raw.githubusercontent.com/api-evangelist/triumph/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +17,68 @@ x-backed-by:
 - general-catalyst
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source:
+  - authentication
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://github.com/triumpharcade.png
 tags:
 - Company
+- Gaming
+- Real-Money Gaming
+- Tournaments
+- Mobile Games
+- SDK
+- Payments
+- Collectibles
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+common:
+- type: Website
+  url: https://www.triumphlabs.com
+- type: Documentation
+  url: https://docs.triumpharcade.com/triumph-sdk
+- type: GettingStarted
+  url: https://docs.triumpharcade.com/triumph-sdk/install-triumph
+- type: DeveloperPortal
+  url: https://dashboard.triumpharcade.com
+- type: SignUp
+  url: https://dashboard.triumpharcade.com/games/allGames/stats
+- type: GitHubOrganization
+  url: https://github.com/triumpharcade
+- type: TermsOfService
+  url: https://docs.triumpharcade.com/terms-of-use-triumph-play-for-cash
+- type: PrivacyPolicy
+  url: https://docs.triumpharcade.com/privacy-policy-multi-product
+- type: LLMsTxt
+  url: llms/triumph-llms.txt
+- type: Packages
+  url: packages/triumph-packages.yml
+- type: SDKs
+  url: packages/triumph-packages.yml
+- type: Authentication
+  url: authentication/triumph-authentication.yml
+- type: Sandbox
+  url: sandbox/triumph-sandbox.yml
+- type: DomainSecurity
+  url: security/triumph-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 6
+  pass: local-v1

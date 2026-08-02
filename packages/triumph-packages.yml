@@ -1,0 +1,38 @@
+generated: '2026-07-21'
+method: searched
+source: https://docs.triumpharcade.com/triumph-sdk/install-triumph.md
+packages:
+- language: swift
+  registry: cocoapods
+  name: TriumphSDK
+  url: https://cocoapods.org/pods/TriumphSDK
+  install: pod 'TriumphSDK'
+  official: true
+  latest_version: 2.0.0
+  last_release: '2023-11-29'
+  notes: iOS SDK for adding real-money tournaments to Swift games; 29 releases on
+    CocoaPods trunk since 2021-09-08. Pod owners include co-founder Jared Geller.
+- language: ruby
+  registry: rubygems
+  name: cocoapods-triumph-sdk-plugin
+  url: https://rubygems.org/gems/cocoapods-triumph-sdk-plugin
+  install: sudo gem install cocoapods-triumph-sdk-plugin
+  official: true
+  latest_version: 0.0.1
+  downloads: 911
+  notes: Required helper CocoaPods plugin for installing TriumphSDK (declared as
+    plugin 'cocoapods-triumph-sdk-plugin' in the Podfile).
+- language: csharp
+  registry: github
+  name: TriumphSDK Unity package
+  url: https://github.com/triumpharcade/triumph-sdk-ios/raw/master/TriumphSDK-latest.unitypackage
+  install: Download TriumphSDK-latest.unitypackage and import via Assets > Import
+    Package > Custom Package
+  official: true
+  notes: Unity package (iOS-targeted) distributed from the triumph-sdk-ios GitHub
+    repository; Unity integration generates TriumphUnityNativeMethods and a TriumphAPI
+    prefab via Tools > TriumphSDK menu items.
+repos:
+- https://github.com/triumpharcade/triumph-sdk-ios
+- https://github.com/triumpharcade/cocoapods-triumph-sdk-plugin
+- https://github.com/triumpharcade/triumph-kit-unity-demo

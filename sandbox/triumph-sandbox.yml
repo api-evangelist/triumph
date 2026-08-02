@@ -1,0 +1,14 @@
+generated: '2026-07-21'
+method: searched
+source: https://docs.triumpharcade.com/triumph-sdk/import-triumph.md
+sandbox:
+  available: true
+  activation: 'Unity integration: leave gameId empty ("") in
+    TriumphUnityNativeMethods to try the SDK in sandbox mode before creating a
+    developer account (documented inline: "Use gameId = \"\" if you want to test
+    out our Sandbox mode before creating a dev account").'
+  developer_account: https://dashboard.triumpharcade.com/games/allGames/stats
+  notes: Live credentials (gameId per game) are issued from the game's "go live"
+    tab in the Triumph dashboard. A demo Unity integration is published at
+    https://github.com/triumpharcade/triumph-kit-unity-demo. No test cards, magic
+    values, or test clocks are published.

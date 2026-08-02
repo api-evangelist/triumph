@@ -1,0 +1,45 @@
+# Triumph Docs
+
+## Triumph Docs
+
+- [Privacy Policy Multi Product](https://docs.triumpharcade.com/privacy-policy-multi-product.md)
+- [EU Cookie Policy](https://docs.triumpharcade.com/eu-cookie-policy.md)
+- [Privacy Policy: "Triumph Partners"](https://docs.triumpharcade.com/privacy-policy-triumph-partners.md)
+- [Spain Terms of Service](https://docs.triumpharcade.com/spain-terms-of-service.md)
+- [Spain Privacy Policy](https://docs.triumpharcade.com/spain-privacy-policy.md)
+- [Germany TOS](https://docs.triumpharcade.com/germany-tos.md)
+- [Germany Privacy Policy](https://docs.triumpharcade.com/germany-privacy-policy.md)
+- [Deletion Request Steps](https://docs.triumpharcade.com/deletion-request-steps.md): Steps to request deletion of your account.
+- [Triumph SDK](https://docs.triumpharcade.com/triumph-sdk.md): Integrate our plug and play SDK.
+- [Install Triumph](https://docs.triumpharcade.com/triumph-sdk/install-triumph.md): Get up and running with Triumph. Estimated Time: 15 minutes.
+- [Import Triumph](https://docs.triumpharcade.com/triumph-sdk/import-triumph.md): Import Triumph into your project
+- [Presenting Triumph](https://docs.triumpharcade.com/triumph-sdk/presenting-triumph.md): Summon Triumph at the tap of a button. Estimated Time: 5 minutes.
+- [Triumph Lifecycle](https://docs.triumpharcade.com/triumph-sdk/triumph-lifecycle.md): Integrate Triumph scoring in your game. Estimated Time: 10 minutes.
+- [Triumph RNG](https://docs.triumpharcade.com/triumph-sdk/triumph-rng.md): Estimated Time: 15 minutes.
+- [Configuration](https://docs.triumpharcade.com/triumph-sdk/configuration.md): Estimated Time - 5 minutes.
+- [Keys and Permissions](https://docs.triumpharcade.com/triumph-sdk/keys-and-permissions.md): Estimated Time: 15 minutes
+- [Apple Pay](https://docs.triumpharcade.com/triumph-sdk/apple-pay.md): Configure Apple Pay with your business developer account. Estimated Time: 1 Hour
+- [Go Live Checklist](https://docs.triumpharcade.com/triumph-sdk/go-live-checklist.md): The final stretch! Estimated Time: 1 Hour.
+- [Test Flight Build](https://docs.triumpharcade.com/triumph-sdk/test-flight-build.md): We're almost there!
+- [App Store Submission](https://docs.triumpharcade.com/triumph-sdk/app-store-submission.md): Best practices to ensure smooth App Store Submission
+- [Get Paid!](https://docs.triumpharcade.com/triumph-sdk/get-paid.md): How to configure your bank account with Triumph so you can get your earnings!
+- [Demo Integrations](https://docs.triumpharcade.com/triumph-sdk/demo-integrations.md): Example integrations of the Swift and Unity Triumph SDKs
+- [Swift Example](https://docs.triumpharcade.com/triumph-sdk/demo-integrations/swift-example.md)
+- [Unity Example](https://docs.triumpharcade.com/triumph-sdk/demo-integrations/unity-example.md)
+- [Common Errors](https://docs.triumpharcade.com/triumph-sdk/common-errors.md): Troubleshooting your most common Errors
+- [Unity](https://docs.triumpharcade.com/triumph-sdk/common-errors/unity.md)
+- [.NET Error](https://docs.triumpharcade.com/triumph-sdk/common-errors/unity/.net-error.md)
+- [Enable Bitcode Error](https://docs.triumpharcade.com/triumph-sdk/common-errors/unity/enable-bitcode-error.md)
+- [Requirements](https://docs.triumpharcade.com/requirements.md): Requirements to go live with Triumph.
+- [Apple Business Developer Account](https://docs.triumpharcade.com/requirements/apple-business-developer-account.md)
+- [Terms of Use: "Triumph: Play for Cash"](https://docs.triumpharcade.com/terms-of-use-triumph-play-for-cash.md): Triumph Play for Cash
+- [Terms of Use: "Rips by Triumph"](https://docs.triumpharcade.com/terms-of-use-rips-by-triumph.md): Rips by Triumph
+- [Terms of Use: "Triumph Partners"](https://docs.triumpharcade.com/terms-of-use-triumph-partners.md)
+- [Frequently Asked Questions (Regulatory and Legal)](https://docs.triumpharcade.com/frequently-asked-questions-regulatory-and-legal.md)
+- [Frequently Asked Questions (TCG)](https://docs.triumpharcade.com/frequently-asked-questions-tcg.md)
+- [Responsible Gaming Policy](https://docs.triumpharcade.com/responsible-gaming-policy.md)
+- [Responsible Purchasing Policy](https://docs.triumpharcade.com/responsible-purchasing-policy.md)
+- [Cookie Policy](https://docs.triumpharcade.com/cookie-policy.md)
+- [Opt Out of Sale or Sharing of Information](https://docs.triumpharcade.com/opt-out-of-sale-or-sharing-of-information.md)
+- [Tax Information (USA)](https://docs.triumpharcade.com/tax-information-usa.md): For Tax Year 2026
+- [2025 Tax Information](https://docs.triumpharcade.com/tax-information-usa/2025-tax-information.md)

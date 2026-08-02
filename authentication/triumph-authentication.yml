@@ -1,0 +1,40 @@
+generated: '2026-07-21'
+method: searched
+docs: https://docs.triumpharcade.com/triumph-sdk/keys-and-permissions
+source: https://docs.triumpharcade.com/triumph-sdk/keys-and-permissions.md
+summary:
+  types: [sdk-credentials]
+  notes: Triumph publishes no public REST API and no OAuth/apiKey HTTP schemes.
+    Access is through the TriumphSDK (Swift/Unity, iOS), configured with identifiers
+    issued in the Triumph developer dashboard plus Apple platform keys uploaded to
+    that dashboard.
+schemes:
+- name: gameId
+  type: sdk-configuration
+  description: Per-game identifier issued in the Triumph developer dashboard (game's
+    "go live" tab). Passed to Triumph.configure(id:) in Swift or set on
+    TriumphUnityNativeMethods.gameId in Unity. An empty gameId runs the SDK in
+    sandbox mode.
+  source: https://docs.triumpharcade.com/triumph-sdk/import-triumph.md
+- name: merchantId
+  type: sdk-configuration
+  description: Merchant identifier set alongside gameId in the Unity
+    TriumphUnityNativeMethods integration.
+  source: https://docs.triumpharcade.com/triumph-sdk/import-triumph.md
+- name: apple-apns-key
+  type: platform-key
+  description: Apple Push Notification Service (APNs) key created in the Apple
+    Developer account and uploaded (with its Key ID) under Settings > Apple Keys in
+    the Triumph dashboard; used to notify players of tournament results.
+  source: https://docs.triumpharcade.com/triumph-sdk/keys-and-permissions.md
+- name: apple-devicecheck-key
+  type: platform-key
+  description: Apple DeviceCheck key created in the Apple Developer account and
+    uploaded to the Triumph dashboard; used to verify submitted scores come from a
+    real device.
+  source: https://docs.triumpharcade.com/triumph-sdk/keys-and-permissions.md
+- name: apple-team-id
+  type: platform-key
+  description: Apple Developer Team ID recorded in the Triumph dashboard alongside
+    the APNs and DeviceCheck keys.
+  source: https://docs.triumpharcade.com/triumph-sdk/keys-and-permissions.md
