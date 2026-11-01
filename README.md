@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Triumph is a company surfaced as a portfolio company of general-catalyst and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Triumph (Triumph Labs, formerly Triumph Arcade) is a consumer entertainment and commerce company backed by General Catalyst, which led its $10.2M Series A — part of the $14.1M the company launched with in May 2023. Triumph began as an iOS/Unity SDK that let game developers add real-money tournaments to their games, handling payments, state-by-state regulatory eligibility (37 US states plus DC at launch), matchmaking, and payouts, and today operates two consumer apps: Triumph: Play for Cash (competitive cash gaming arcade) and Rips by Triumph (trading-card collectibles). The Triumph SDK for Swift and Unity remains documented at docs.triumpharcade.com and is distributed via CocoaPods and GitHub, with a developer dashboard at dashboard.triumpharcade.com; the company publishes no public REST API.
 
-Backed by: general-catalyst
+**Areas:** Company · Gaming · Real-Money Gaming · Tournaments · Mobile Games · SDK · Payments · Collectibles
+
+## Triumph on APIs.io
+
+Everything profiled for Triumph is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/triumph/](https://apis.io/providers/triumph/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Triumph Authentication](https://apis.io/security/triumph/triumph-authentication/)
+- [Triumph Domain Security](https://apis.io/security/triumph/triumph-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.triumphlabs.com)
+- [Documentation](https://docs.triumpharcade.com/triumph-sdk)
+- [Getting started](https://docs.triumpharcade.com/triumph-sdk/install-triumph)
+- [Sign up](https://dashboard.triumpharcade.com/games/allGames/stats)
+- [Terms of service](https://docs.triumpharcade.com/terms-of-use-triumph-play-for-cash)
+- [Privacy policy](https://docs.triumpharcade.com/privacy-policy-multi-product)
+- [GitHub](https://github.com/triumpharcade)
+
+## API Evangelist rating
+
+**Kin Score 19.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 17.9** — Payments
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/triumph/](https://apis.io/providers/triumph/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Triumph: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/triumph/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
